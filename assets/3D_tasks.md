@@ -12,6 +12,9 @@ A current collection of 3D tasks.
     - [LiDAR Localization](#lidar-localization)
 - [Gauussian Splitting](#gaussian-splitting)
 - [3D Generation](#3d-generation)
+    - [3D Conditional Generation](#3d-conditional-generation)
+- [3D Representation Learning](#3d-representation-learning)
+    - [Disentangled Representation](#disentangled-representation)
 
 ## 3D LiDAR
 
@@ -30,3 +33,11 @@ A current collection of 3D tasks.
 ## 3D Generation
 - (arXiv 24.11) **Edify 3D: Scalable High-Quality 3D Asset Generation[NVIDIA]**  [[Paper]](https://arxiv.org/pdf/2411.07135)
 
+### 3D Conditional Generation
+- (arXiv 24.11) **GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation** [[Paper]](https://arxiv.org/pdf/2411.08033)
+
+
+## 3D Representation Learning
+
+### Disentangled Representation
+- (arXiv 24.11) **Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization** [[Paper]](https://arxiv.org/pdf/2411.07936)
