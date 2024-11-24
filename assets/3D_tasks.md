@@ -16,6 +16,14 @@ A current collection of 3D tasks.
 - [3D Representation Learning](#3d-representation-learning)
     - [Disentangled Representation](#disentangled-representation)
 
+## 3D Object
+
+### Part Segmentation
+
+#### Open Vocabulary Part Segmentation
+- (arXiv 24.11) **Find Any Part in 3D** [[Paper]](https://arxiv.org/pdf/2411.13550)
+
+
 ## 3D LiDAR
 
 ### LiDAR Localization
