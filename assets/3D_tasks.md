@@ -30,6 +30,11 @@ A current collection of 3D tasks.
 - (CVPR 2024) **LiSA: LiDAR Localization with Semantic Awareness** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_LiSA_LiDAR_Localization_with_Semantic_Awareness_CVPR_2024_paper.pdf)
 
 ### Semantic Segmentation
+
+**[Occlusion Robustness]**
+- (arXiv 24.11) **BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation** [[Paper]](https://arxiv.org/pdf/2411.13251)
+
+
 - (arXiv 24.11) **SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation** [[Paper]](https://arxiv.org/pdf/2411.06991)
 
 
