@@ -44,6 +44,14 @@ A current collection of 3D tasks.
 
 
 ## 3D Generation
+
+***[Material Generation]***
+- (arXiv 24.11) **Material Anything: Generating Materials for Any 3D Object via Diffusion** [[Paper]](https://arxiv.org/pdf/2411.15138)
+
+***[Any-to-3D]***
+- (arXiv 24.11) **Any-to-3D Generation via Hybrid Diffusion Supervision**  [[Paper]](https://arxiv.org/pdf/2411.14715)
+
+
 - (arXiv 24.11) **Edify 3D: Scalable High-Quality 3D Asset Generation[NVIDIA]**  [[Paper]](https://arxiv.org/pdf/2411.07135)
 
 ### 3D Conditional Generation
@@ -54,3 +62,7 @@ A current collection of 3D tasks.
 
 ### Disentangled Representation
 - (arXiv 24.11) **Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization** [[Paper]](https://arxiv.org/pdf/2411.07936)
+
+### Point Cloud Understanding
+
+- (arXiv 24.11) **Point Cloud Understanding via Attention-Driven Contrastive Learning** [[Paper]](https://arxiv.org/pdf/2411.14744)
